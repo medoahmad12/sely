@@ -1,0 +1,65 @@
+[
+ {
+  "id": "red",
+  "ar": "أحمر",
+  "en": "Red",
+  "value": 4293212469,
+  "emoji": "🍎"
+ },
+ {
+  "id": "blue",
+  "ar": "أزرق",
+  "en": "Blue",
+  "value": 4280191205,
+  "emoji": "🐳"
+ },
+ {
+  "id": "yellow",
+  "ar": "أصفر",
+  "en": "Yellow",
+  "value": 4294826037,
+  "emoji": "🍌"
+ },
+ {
+  "id": "green",
+  "ar": "أخضر",
+  "en": "Green",
+  "value": 4282622023,
+  "emoji": "🐸"
+ },
+ {
+  "id": "orange",
+  "ar": "برتقالي",
+  "en": "Orange",
+  "value": 4294675456,
+  "emoji": "🍊"
+ },
+ {
+  "id": "purple",
+  "ar": "بنفسجي",
+  "en": "Purple",
+  "value": 4287505578,
+  "emoji": "🍇"
+ },
+ {
+  "id": "pink",
+  "ar": "وردي",
+  "en": "Pink",
+  "value": 4293673082,
+  "emoji": "🌸"
+ },
+ {
+  "id": "black",
+  "ar": "أسود",
+  "en": "Black",
+  "value": 4280361249,
+  "emoji": "🎱"
+ },
+ {
+  "id": "white",
+  "ar": "أبيض",
+  "en": "White",
+  "value": 4294638330,
+  "emoji": "☁️"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "circle",
+  "ar": "الدائرة",
+  "en": "Circle",
+  "emoji": "🌕"
+ },
+ {
+  "id": "square",
+  "ar": "المربع",
+  "en": "Square",
+  "emoji": "🎁"
+ },
+ {
+  "id": "triangle",
+  "ar": "المثلث",
+  "en": "Triangle",
+  "emoji": "🍕"
+ },
+ {
+  "id": "rectangle",
+  "ar": "المستطيل",
+  "en": "Rectangle",
+  "emoji": "🚪"
+ },
+ {
+  "id": "star",
+  "ar": "النجمة",
+  "en": "Star",
+  "emoji": "⭐"
+ },
+ {
+  "id": "heart",
+  "ar": "القلب",
+  "en": "Heart",
+  "emoji": "❤️"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "apple",
+  "letter": "A",
+  "word": "Apple",
+  "emoji": "🍎"
+ },
+ {
+  "id": "ball",
+  "letter": "B",
+  "word": "Ball",
+  "emoji": "⚽"
+ },
+ {
+  "id": "cat",
+  "letter": "C",
+  "word": "Cat",
+  "emoji": "🐱"
+ },
+ {
+  "id": "dog",
+  "letter": "D",
+  "word": "Dog",
+  "emoji": "🐶"
+ },
+ {
+  "id": "egg",
+  "letter": "E",
+  "word": "Egg",
+  "emoji": "🥚"
+ },
+ {
+  "id": "fish",
+  "letter": "F",
+  "word": "Fish",
+  "emoji": "🐟"
+ },
+ {
+  "id": "hat",
+  "letter": "H",
+  "word": "Hat",
+  "emoji": "🎩"
+ },
+ {
+  "id": "sun",
+  "letter": "S",
+  "word": "Sun",
+  "emoji": "☀️"
+ },
+ {
+  "id": "car",
+  "letter": "C",
+  "word": "Car",
+  "emoji": "🚗"
+ },
+ {
+  "id": "book",
+  "letter": "B",
+  "word": "Book",
+  "emoji": "📖"
+ }
+]
