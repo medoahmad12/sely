@@ -91,12 +91,15 @@ void main() {
     var unlocked = 0;
     await tester.pumpWidget(wrap(env, Center(child: HoldToUnlock(onUnlocked: () => unlocked++))));
     final g1 = await tester.startGesture(tester.getCenter(find.byType(HoldToUnlock)));
+    await tester.pump();
     await tester.pump(const Duration(seconds: 1));
     await g1.up();
+    await tester.pump();
     await tester.pump(const Duration(seconds: 1));
     expect(unlocked, 0);
 
     final g2 = await tester.startGesture(tester.getCenter(find.byType(HoldToUnlock)));
+    await tester.pump();
     await tester.pump(const Duration(milliseconds: 3100));
     await g2.up();
     await tester.pump();
