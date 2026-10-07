@@ -15,10 +15,7 @@ Widget wrap(TestEnv env, Widget child) => AppScope(
       child: MaterialApp(
         locale: const Locale('ar'),
         supportedLocales: const [Locale('ar'), Locale('en')],
-        localizationsDelegates: const [
-          GlobalMaterialLocalizations.delegate,
-          GlobalWidgetsLocalizations.delegate,
-        ],
+           localizationsDelegates: GlobalMaterialLocalizations.delegates,
         home: Scaffold(body: child),
       ),
     );
