@@ -1,0 +1,158 @@
+[
+ {
+  "id": "apple",
+  "letter": "A",
+  "word": "Apple",
+  "emoji": "🍎"
+ },
+ {
+  "id": "ball",
+  "letter": "B",
+  "word": "Ball",
+  "emoji": "⚽"
+ },
+ {
+  "id": "cat",
+  "letter": "C",
+  "word": "Cat",
+  "emoji": "🐱"
+ },
+ {
+  "id": "dog",
+  "letter": "D",
+  "word": "Dog",
+  "emoji": "🐶"
+ },
+ {
+  "id": "egg",
+  "letter": "E",
+  "word": "Egg",
+  "emoji": "🥚"
+ },
+ {
+  "id": "fish",
+  "letter": "F",
+  "word": "Fish",
+  "emoji": "🐟"
+ },
+ {
+  "id": "grapes",
+  "letter": "G",
+  "word": "Grapes",
+  "emoji": "🍇"
+ },
+ {
+  "id": "hat",
+  "letter": "H",
+  "word": "Hat",
+  "emoji": "🎩"
+ },
+ {
+  "id": "icecream",
+  "letter": "I",
+  "word": "Ice cream",
+  "emoji": "🍦"
+ },
+ {
+  "id": "juice",
+  "letter": "J",
+  "word": "Juice",
+  "emoji": "🧃"
+ },
+ {
+  "id": "kite",
+  "letter": "K",
+  "word": "Kite",
+  "emoji": "🪁"
+ },
+ {
+  "id": "lion",
+  "letter": "L",
+  "word": "Lion",
+  "emoji": "🦁"
+ },
+ {
+  "id": "monkey",
+  "letter": "M",
+  "word": "Monkey",
+  "emoji": "🐵"
+ },
+ {
+  "id": "nose",
+  "letter": "N",
+  "word": "Nose",
+  "emoji": "👃"
+ },
+ {
+  "id": "orange",
+  "letter": "O",
+  "word": "Orange",
+  "emoji": "🍊"
+ },
+ {
+  "id": "pizza",
+  "letter": "P",
+  "word": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "id": "queen",
+  "letter": "Q",
+  "word": "Queen",
+  "emoji": "👸"
+ },
+ {
+  "id": "rabbit",
+  "letter": "R",
+  "word": "Rabbit",
+  "emoji": "🐰"
+ },
+ {
+  "id": "sun",
+  "letter": "S",
+  "word": "Sun",
+  "emoji": "☀️"
+ },
+ {
+  "id": "tiger",
+  "letter": "T",
+  "word": "Tiger",
+  "emoji": "🐯"
+ },
+ {
+  "id": "umbrella",
+  "letter": "U",
+  "word": "Umbrella",
+  "emoji": "☂️"
+ },
+ {
+  "id": "violin",
+  "letter": "V",
+  "word": "Violin",
+  "emoji": "🎻"
+ },
+ {
+  "id": "whale",
+  "letter": "W",
+  "word": "Whale",
+  "emoji": "🐋"
+ },
+ {
+  "id": "xray",
+  "letter": "X",
+  "word": "X-ray",
+  "emoji": "🩻"
+ },
+ {
+  "id": "yoyo",
+  "letter": "Y",
+  "word": "Yo-yo",
+  "emoji": "🪀"
+ },
+ {
+  "id": "zebra",
+  "letter": "Z",
+  "word": "Zebra",
+  "emoji": "🦓"
+ }
+]

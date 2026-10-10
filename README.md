@@ -87,3 +87,14 @@ tool/          generate_data.py, generate_audio.py
 
 ## Not included in v1 (intentionally, so nothing fake appears in the UI)
 Remaining Arabic letters (content is data-driven: add them to the JSON), the Arabic↔English comparison activity, professional voice recordings, in-app purchases, accounts.
+
+## Adventure map (Letter Forest)
+
+The home screen opens a Candy-Crush-style map: one winding road, a level per Arabic letter
+and a review game after every 4 letters. A level opens only when the previous one has at
+least 1 star. Arnoub the rabbit waits at the current level.
+
+* `lib/features/adventure/` - map, forest quest level, review level, the rabbit, the animated forest (all vector, drawn in code).
+* Levels are generated from `assets/data/arabic_letters.json`: add a letter there and the map grows.
+* Letter tracing guides are generated from the real glyph shapes: `python3 tool/build_letters.py`, then look at `docs/letters_preview.png`.
+* Spoken Arabic goes through `lib/services/arabic_speech.dart` (diacritics + pausal endings, no more tanween).
